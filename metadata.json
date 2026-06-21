@@ -1,0 +1,6 @@
+{
+  "name": "EduPilot X",
+  "description": "An autonomous multi-agent educational mentor and academic success system combining academic analysis, adaptive quizzes, career navigation, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
